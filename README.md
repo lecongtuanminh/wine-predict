@@ -1,0 +1,1 @@
+This is a group project I have done during schoolyear. We used a dataset from Kaggle in this project(link in the notebook section) and performed analysis on the data, as well as using machine learning models to predict the outcome of wine.
